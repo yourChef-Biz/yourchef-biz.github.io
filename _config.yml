@@ -128,7 +128,7 @@ author:
       
 # Site Header
 header:
-  teaser: "images/sample-image-1.jpg"
+  teaser: /images/sample-image-1.jpg
   
 # Site Footer
 footer:
