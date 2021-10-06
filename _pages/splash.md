@@ -2,11 +2,6 @@
 title:  "Splash Page"
 layout: splash
 permalink: /splash-page/
----
-
-title: "Splash Page Title"
-layout: splash
-permalink: /splash-page/
 header:
   excerpt: "This post should [...]"
   overlay_image: /assets/images/sample-image-1.jpg
@@ -15,3 +10,4 @@ header:
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
+---
