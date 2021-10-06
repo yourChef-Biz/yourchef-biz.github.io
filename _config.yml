@@ -127,13 +127,6 @@ author:
       # url: "https://instagram.com/"
       
 # Site Header
-header:
-  teaser: /images/sample-image-1.jpg
-  
-# Menu
-main:
-  - title: "naver"
-    url: https://naver.com
     
 # Site Footer
 footer:
