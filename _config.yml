@@ -125,7 +125,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+      
+# Site Header
+header:
+  teaser: "images/sample-image-1.jpg"
+  
 # Site Footer
 footer:
   links:
