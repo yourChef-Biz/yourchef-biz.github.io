@@ -1,11 +1,9 @@
 ---
 title:  "개인정보 수집 및 이용동의"
-layout: splash
 permalink: /privacy/general/third_party/
 ---
 
 <html>
-
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=Generator content="Microsoft Word 15 (filtered)">

@@ -1,8 +1,8 @@
 ---
 title:  "마케팅정보수신동의"
-layout: splash
 permalink: /privacy/general/marketing/
-excerpt: "
+---
+
 <html>
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
@@ -166,5 +166,3 @@ style='font-size:12.0pt;line-height:130%;font-family:"휴먼명조",serif'>&nbsp
 </body>
 
 </html>
-"
----

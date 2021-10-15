@@ -1,11 +1,9 @@
 ---
 title:  "개인정보 처리방침"
-layout: splash
 permalink: /privacy/general/personal_info/
 ---
 
 <html>
-
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
