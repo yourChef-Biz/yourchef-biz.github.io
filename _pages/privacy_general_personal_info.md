@@ -1,6 +1,6 @@
 ---
 title:  "개인정보 처리방침"
-layout: privacy
+layout: raw-page
 permalink: /privacy/general/personal_info/
 ---
 
