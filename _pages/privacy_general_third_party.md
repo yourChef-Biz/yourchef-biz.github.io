@@ -1,5 +1,5 @@
 ---
-title:  "개인정 보수집 및 이용동의"
+title:  "개인정보 수집 및 이용동의"
 layout: splash
 permalink: /privacy/general/third_party/
 ---
