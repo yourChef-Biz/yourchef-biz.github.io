@@ -1,5 +1,6 @@
 ---
 title:  "마케팅정보수신동의"
+layout: privacy
 permalink: /privacy/general/marketing/
 ---
 

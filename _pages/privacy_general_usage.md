@@ -1,5 +1,6 @@
 ---
 title:  "이용약관"
+layout: privacy
 permalink: /privacy/general/usage/
 ---
 

@@ -1,5 +1,6 @@
 ---
 title:  "개인정보 수집 및 이용동의"
+layout: privacy
 permalink: /privacy/general/third_party/
 ---
 
