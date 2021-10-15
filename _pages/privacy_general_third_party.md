@@ -1,6 +1,6 @@
 ---
 title:  "개인정 보수집 및 이용동의"
-layout: single
+layout: splash
 permalink: /privacy/general/third_party/
 ---
 
