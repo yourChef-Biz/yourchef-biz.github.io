@@ -1,6 +1,6 @@
 ---
 title:  "개인정보 수집 및 이용동의"
-layout: archive
+layout: single
 permalink: /privacy/small_business/third_party/
 ---
 
