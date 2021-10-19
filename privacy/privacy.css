@@ -1,0 +1,57 @@
+
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:함초롬바탕;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:함초롬돋움;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:휴먼명조;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"\@휴먼명조";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@함초롬돋움";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@함초롬바탕";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face {
+    font-family: 'gSans';
+    src: url('GmarketSansMedium.otf') format('opentype');
+}
+ /* Style Definitions */
+ p.a, li.a, div.a
+	{mso-style-name:바탕글;
+	margin:0in;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:103%;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.0pt;
+	font-family:"gSans",serif;
+	color:black;}
+.MsoChpDefault
+	{font-family:"Malgun Gothic",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.25pt 841.85pt;
+	margin:99.2pt 85.0pt 99.2pt 85.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
